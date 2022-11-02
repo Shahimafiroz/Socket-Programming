@@ -13,15 +13,22 @@ STEPS TO RUN CLIENT AND SERVER INSTANCES
 
 3. 1st run the server class using the following commands
 
-javac server.java
-java  server.java
+               javac server.java    
+
+               java  server.java
+               
 
 <img width="1440" alt="Screenshot 2022-11-02 at 2 26 29 PM" src="https://user-images.githubusercontent.com/99420269/199445354-1ecff53c-2e14-441e-907c-8aa384ad522c.png">
 
 4. Now run the client class using the following commands
 
-javac client.java
-java  client.java
+                 
+                javac client.java
+                
+                
+                java  client.java
+                
+                
 
 <img width="1440" alt="Screenshot 2022-11-02 at 2 28 29 PM" src="https://user-images.githubusercontent.com/99420269/199446165-dc65e00f-d526-4ee1-b5a7-080f72636ec8.png">
 
